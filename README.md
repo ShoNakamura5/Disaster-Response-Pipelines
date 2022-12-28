@@ -5,16 +5,16 @@
 This project requires Python 3.* and the following Python libraries installed:
 
 1.nltk  
-2.re
-3.numpy
-4.pandas
-5.pickle
-6.sqlite3
-7.sqlalchemy
-8.sys
-9.sklearn
-10.json
-11.plotly
+2.re  
+3.numpy  
+4.pandas  
+5.pickle  
+6.sqlite3  
+7.sqlalchemy  
+8.sys  
+9.sklearn  
+10.json  
+11.plotly  
 12.flask
 
 ## Project Motivation<a name="motivation"></a>
