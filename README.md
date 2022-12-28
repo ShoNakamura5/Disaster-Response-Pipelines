@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
-[photo1](https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.26.23.png)
-[photo2](https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.35.18.png)
+![photo1](https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.26.23.png)
+![photo2](https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.35.18.png)
 
 ## Installation <a name="installation"></a>
 
