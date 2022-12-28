@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+(https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.26.23.png))
+https://github.com/ShoNakamura5/Disaster-Response-Pipelines/blob/main/Screen%20Shot%202022-12-28%20at%2011.35.18.png
+
 ## Installation <a name="installation"></a>
 
 This project requires Python 3.* and the following Python libraries installed:
