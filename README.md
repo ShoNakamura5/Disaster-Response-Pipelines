@@ -4,8 +4,8 @@
 
 This project requires Python 3.* and the following Python libraries installed:
 
-1.nltk　　
-2.re　　
+1.nltk  
+2.re
 3.numpy
 4.pandas
 5.pickle
